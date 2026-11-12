@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data: regenerate from ENTSO-E, don't store in the repo
+data/
+*.csv
